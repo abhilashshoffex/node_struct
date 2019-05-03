@@ -1,0 +1,21 @@
+{
+  "name": "nodestructur",
+  "version": "1.0.0",
+  "description": "Project structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "mongodb": "^2.2.36",
+    "mongoose": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "author": "",
+  "license": "ISC"
+}
